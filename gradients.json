@@ -1532,5 +1532,8 @@
     {
         "name": "Visual Blue",
         "colors": ["#003d4d", "#00c996"]
-    }
+    },
+    {
+        "name": "Intrinzek",
+        "colors": ["#034d5a", "#585960", "#a06366", "#f56f6c"]
 ]
